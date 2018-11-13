@@ -36,9 +36,12 @@ header {
 }
 
 section {
+    padding: 28px 25px;
+}
+
+.wrapper {
     max-width: 1620px;
     margin: auto;
-    padding: 28px 25px;
 }
 
 h1 {
