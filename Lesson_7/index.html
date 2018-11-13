@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<a href="#">Link</a>
+<p id="qwe" class="par1 red">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt <a href="#"> <span>culpa</span> qui </a> officia deserunt mollit anim id est laborum.
+</p>
+<p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in <a href="#"> <span>culpa</span> qui </a> officia deserunt mollit anim id est laborum.
+</p>
+</body>
+</html>
+
+
+
+
+
+<!--Приоритеты:-->
+<!--1. !important-->
+<!--2. ID-->
+<!--3. Inline (не применять)-->
+<!--4. Class-->
+<!--5. Тег-->
+<!--6. *-->
+
+<!--Классы прописываются через пробел (class="par1 red">). Если свойства повторяются, то применяется последний-->
+
+<!--Если .class1 .class2 a {} - будет искать тег А в .class2 в .class1. (вложенность)-->
+<!--Если class1.class2 a {} - применится к обоим классам (нет вложенности)-->
+<!--li.class2 {} - li с классом class2-->
+<!--.block1 > span {} - свойство применится к детям, но не применяются к внукам в классе-->
+<!--.block1 + span {} - свойство применится только к соседним span в классе-->
