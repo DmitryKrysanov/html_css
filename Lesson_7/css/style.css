@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: inherit;
+    color: inherit;
+    -webkit-font-smoothing: antialiased;
+}
+
+button::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+}
+
+#qwe {
+    font-size: 30px;
+}
+.par1{
+    color: #ebc738;
+}
+
+.red {
+    color: red;
+}
+
+img {
+    border: none;
+}
+
+body {
+    height: 100%;
+}
+
+p a {
+    background-color: #69d2e7;
+}
+
+.qwe a span {
+    background-color: #bbdb8c;
+}
