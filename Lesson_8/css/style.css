@@ -49,3 +49,42 @@
 .psevdo p:nth-child(2) {
     color: green;
 }
+
+
+.clearfix {
+    clear: both;
+}
+
+.left {
+    background-color: #bbdb8c;
+    float: left;
+    width: 50%;
+    height: 200px;
+}
+
+.right {
+    background-color: #69d2e7;
+    float: right;
+    width: 50%;
+    height: 200px;
+}
+
+.right__left {
+    background-color: #00a651;
+    float: left;
+    width: 50%;
+    height: 100px;
+}
+
+.right__right {
+    background-color: #003471;
+    float: right;
+    width: 50%;
+    height: 100px;
+}
+
+.right__bottom {
+    background-color: #ebc738;
+    height: 100px;
+    width: 100%;
+}
