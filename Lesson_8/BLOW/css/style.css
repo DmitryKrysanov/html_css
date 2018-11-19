@@ -38,7 +38,6 @@ body {
     float: left;
 }
 
-
 /*.clearfix {*/
     /*clear: both;*/
 /*}*/
@@ -51,6 +50,7 @@ header:after {
 
 nav {
     float: right;
+    margin-left: 100px;
 }
 
 nav ul {
@@ -77,4 +77,25 @@ nav ul li a {
 nav ul li a:hover {
     background-color: #000;
     color: white;
+}
+
+.section {
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 187px;
+}
+
+.section__button {
+    display: inline-block;
+}
+
+section a {
+    color: #f0cdab;
+    font-size: 20px;
+    padding: 22px 60px;
+    background-color: #000;
+    border-radius: 60px;
+    -webkit-box-shadow: 0 50px 60px 0 rgba(0,0,0,0.5);
+    box-shadow: 0 50px 60px 0 rgba(0,0,0,0.5);
 }
