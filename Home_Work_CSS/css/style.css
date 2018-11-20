@@ -1,3 +1,33 @@
+@font-face {
+    font-family: 'BarlowMedium';
+    src: url('../fonts/BarlowMedium.eot');
+    src: url('../fonts/BarlowMedium.eot') format('embedded-opentype'),
+    url('../fonts/BarlowMedium.woff2') format('woff2'),
+    url('../fonts/BarlowMedium.woff') format('woff'),
+    url('../fonts/BarlowMedium.ttf') format('truetype'),
+    url('../fonts/BarlowMedium.svg#BarlowMedium') format('svg');
+}
+
+@font-face {
+    font-family: 'BarlowSemiBold';
+    src: url('../fonts/BarlowSemiBold.eot');
+    src: url('../fonts/BarlowSemiBold.eot') format('embedded-opentype'),
+    url('../fonts/BarlowSemiBold.woff2') format('woff2'),
+    url('../fonts/BarlowSemiBold.woff') format('woff'),
+    url('../fonts/BarlowSemiBold.ttf') format('truetype'),
+    url('../fonts/BarlowSemiBold.svg#BarlowSemiBold') format('svg');
+}
+
+@font-face {
+    font-family: 'BarlowRegular';
+    src: url('../fonts/BarlowRegular.eot');
+    src: url('../fonts/BarlowRegular.eot') format('embedded-opentype'),
+    url('../fonts/BarlowRegular.woff2') format('woff2'),
+    url('../fonts/BarlowRegular.woff') format('woff'),
+    url('../fonts/BarlowRegular.ttf') format('truetype'),
+    url('../fonts/BarlowRegular.svg#BarlowRegular') format('svg');
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -19,6 +49,7 @@ a {
     background-color: #0073a1;
     border-radius: 25px;
     padding: 15px 70px;
+    font-family: 'BarlowRegular';
     font-size: 16px;
     color: #fff;
 }
@@ -44,8 +75,9 @@ section {
     margin: auto;
 }
 
-h1 {
-    font-size: 34px;
+section h1 {
+    font-family: 'BarlowMedium';
+    font-size: 24px;
     color: #555555;
     border-bottom: 1px solid #003471;
     padding-bottom: 15px;
@@ -54,18 +86,22 @@ h1 {
 }
 
 section .card__header h2 {
+    font-family: 'BarlowSemiBold';
     font-size: 20px;
     color: #000;
 }
 
 section .card__content h3 {
+    font-family: 'BarlowRegular';
     font-size: 18px;
     color: #0073a1;
     margin-bottom: 30px;
 }
 
 section .card__content p {
+    font-family: 'BarlowRegular';
     font-size: 20px;
+    line-height: 30px;
     color: #555555;
 }
 
