@@ -1,0 +1,90 @@
+.focus {
+    background-color: #00a651;
+    height: 50px;
+    width: 300px;
+    border: solid 2px #00a651;
+}
+.focus:focus{
+    background-color: yellow;
+    border: solid 2px blue;
+}
+
+/*псевдоэлемент, который создается внутри класса*/
+
+.psevdo {
+    background-color: #e1e1e1;
+    height: 300px;
+}
+
+.psevdo:after {
+    content: "";
+    display: block;
+    height: 50px;
+    background-color: #000;
+    margin-top: 100px;
+}
+
+/*.psevdo:before {*/
+    /*content: "";*/
+    /*display: block;*/
+    /*height: 50px;*/
+    /*background-color: #eee;*/
+/*}*/
+
+.psevdo:before {
+    content: "......";
+    display: block;
+   text-align: center;
+    font-size: 40px;
+}
+/*свойства для первого элемента внутри блока*/
+.psevdo p:first-child {
+    color: red;
+}
+/*свойства для последнего элемента внутри блока*/
+.psevdo p:last-child {
+    color: blue;
+}
+/*свойства для любого элемента внутри блока*/
+.psevdo p:nth-child(2) {
+    color: green;
+}
+
+
+.clearfix {
+    clear: both;
+}
+
+.left {
+    background-color: #bbdb8c;
+    float: left;
+    width: 50%;
+    height: 200px;
+}
+
+.right {
+    background-color: #69d2e7;
+    float: right;
+    width: 50%;
+    height: 200px;
+}
+
+.right__left {
+    background-color: #00a651;
+    float: left;
+    width: 50%;
+    height: 100px;
+}
+
+.right__right {
+    background-color: #003471;
+    float: right;
+    width: 50%;
+    height: 100px;
+}
+
+.right__bottom {
+    background-color: #ebc738;
+    height: 100px;
+    width: 100%;
+}

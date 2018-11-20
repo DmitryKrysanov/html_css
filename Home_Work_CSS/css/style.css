@@ -45,7 +45,7 @@ section {
 }
 
 h1 {
-    font-size: 24px;
+    font-size: 34px;
     color: #555555;
     border-bottom: 1px solid #003471;
     padding-bottom: 15px;
@@ -53,18 +53,18 @@ h1 {
     padding-left: 35px;
 }
 
-h2 {
+section .card__header h2 {
     font-size: 20px;
     color: #000;
 }
 
-h3 {
+section .card__content h3 {
     font-size: 18px;
     color: #0073a1;
     margin-bottom: 30px;
 }
 
-p {
+section .card__content p {
     font-size: 20px;
     color: #555555;
 }
