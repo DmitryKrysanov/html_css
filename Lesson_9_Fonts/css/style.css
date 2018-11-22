@@ -1,0 +1,68 @@
+/*@font-face {*/
+    /*font-family: 'OpenSansBold';*/
+    /*src: url('../fonts/OpenSansBold.eot');*/
+    /*src: url('../fonts/OpenSansBold.eot') format('embedded-opentype'),*/
+    /*url('../fonts/OpenSansBold.woff2') format('woff2'),*/
+    /*url('../fonts/OpenSansBold.woff') format('woff'),*/
+    /*url('../fonts/OpenSansBold.ttf') format('truetype'),*/
+    /*url('../fonts/OpenSansBold.svg#OpenSansBold') format('svg');*/
+/*}*/
+
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('../fonts/OpenSansRegular.eot');
+    src: url('../fonts/OpenSansRegular.eot') format('embedded-opentype'),
+    url('../fonts/OpenSansRegular.woff2') format('woff2'),
+    url('../fonts/OpenSansRegular.woff') format('woff'),
+    url('../fonts/OpenSansRegular.ttf') format('truetype'),
+    url('../fonts/OpenSansRegular.svg#OpenSansRegular') format('svg');
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-size: inherit;
+    color: inherit;
+    -webkit-font-smoothing: antialiased;
+}
+
+button::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+}
+
+img {
+    border: none;
+}
+
+body {
+    height: 100%;
+}
+
+h1 {
+    /*font-family: 'OpenSansBold';*/
+    font-size: 36px;
+    color: #ebc738;
+    margin-bottom: 14px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'OpenSansRegular';
+    font-size: 16px;
+    line-height: 24px;
+    color: #474747;
+    margin-bottom: 32px;
+}
+
+p:last-child {
+    margin-bottom: 0;
+}

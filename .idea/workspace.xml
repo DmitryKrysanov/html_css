@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed2018b5-615a-4583-96a0-4dbd6500feb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Home_Work_CSS/fonts/BarlowRegular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_CSS/fonts/BarlowRegular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_CSS/fonts/BarlowRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_CSS/fonts/BarlowRegular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_CSS/fonts/BarlowRegular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_CSS/fonts/BarlowSemiBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_CSS/fonts/BarlowSemiBold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_CSS/fonts/BarlowSemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_CSS/fonts/BarlowSemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_Work_CSS/fonts/BarlowSemiBold.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< Updated upstream
-      <change beforePath="$PROJECT_DIR$/Lesson_8/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_8/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_8/index.html" afterDir="false" />
-=======
->>>>>>> Stashed changes
+      <change beforePath="$PROJECT_DIR$/Home_Work_CSS/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Home_Work_CSS/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +25,7 @@
     <session id="-1782243021">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="2" />
@@ -34,76 +40,57 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="8" />
-          <entry key="html" value="40" />
+          <entry key="css" value="13" />
+          <entry key="html" value="43" />
           <entry key="jpg" value="3" />
           <entry key="png" value="3" />
-          <entry key="svg" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="8" />
-          <entry key="HTML" value="40" />
+          <entry key="CSS" value="13" />
+          <entry key="HTML" value="43" />
           <entry key="Image" value="6" />
-          <entry key="SVG" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-<<<<<<< Updated upstream
-          <entry key="css" value="1838" />
-          <entry key="html" value="7071" />
-          <entry key="txt" value="389" />
-=======
           <entry key="css" value="2053" />
           <entry key="html" value="7072" />
-          <entry key="txt" value="428" />
->>>>>>> Stashed changes
+          <entry key="txt" value="403" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-<<<<<<< Updated upstream
-          <entry key="CSS" value="1838" />
-          <entry key="HTML" value="7071" />
-          <entry key="PLAIN_TEXT" value="389" />
-=======
           <entry key="CSS" value="2053" />
           <entry key="HTML" value="7072" />
-          <entry key="PLAIN_TEXT" value="428" />
->>>>>>> Stashed changes
+          <entry key="PLAIN_TEXT" value="403" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
           <entry key="git.branch.checkout.local" value="14" />
-          <entry key="git.branch.create.new" value="9" />
+          <entry key="git.branch.create.new" value="10" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lesson_8/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home_Work_CSS/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+            <state relative-caret-position="270">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson_8/css/style.css">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Home_Work_CSS/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-            <state relative-caret-position="520">
-              <caret line="92" selection-start-line="92" selection-end-line="92" />
-=======
-            <state relative-caret-position="137">
+            <state relative-caret-position="454">
               <caret line="103" column="21" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
->>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -113,8 +100,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -151,12 +138,16 @@
         <option value="$PROJECT_DIR$/Home_Work_FORM/index.html" />
         <option value="$PROJECT_DIR$/Lesson_7/css/style.css" />
         <option value="$PROJECT_DIR$/Lesson_7/index.html" />
-        <option value="$PROJECT_DIR$/Home_Work_CSS/index.html" />
-        <option value="$PROJECT_DIR$/Home_Work_CSS/css/style.css" />
         <option value="$PROJECT_DIR$/Lesson_8/BLOW/index.html" />
         <option value="$PROJECT_DIR$/Lesson_8/BLOW/css/style.css" />
         <option value="$PROJECT_DIR$/Lesson_8/css/style.css" />
         <option value="$PROJECT_DIR$/Lesson_8/index.html" />
+        <option value="$PROJECT_DIR$/Lesson_9/css/style.css" />
+        <option value="$PROJECT_DIR$/Lesson_9/index.html" />
+        <option value="$PROJECT_DIR$/Lesson_9_Fonts/index.html" />
+        <option value="$PROJECT_DIR$/Lesson_9_Fonts/css/style.css" />
+        <option value="$PROJECT_DIR$/Home_Work_CSS/index.html" />
+        <option value="$PROJECT_DIR$/Home_Work_CSS/css/style.css" />
       </list>
     </option>
   </component>
@@ -187,17 +178,6 @@
               <item name="html_css_repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="html_css_repo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="html_css_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html_css_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html_css_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html_css_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_8" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -213,9 +193,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lesson_9" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Home_Work_CSS/fonts" />
+      <recent name="$PROJECT_DIR$/Home_Work_CSS" />
+      <recent name="$PROJECT_DIR$/Lesson_9_Fonts/fonts" />
+      <recent name="$PROJECT_DIR$/Lesson_9_Fonts" />
       <recent name="$PROJECT_DIR$/Lesson_4/work/images" />
-      <recent name="$PROJECT_DIR$/Lesson_2/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -390,13 +376,6 @@
       <option name="project" value="LOCAL" />
       <updated>1542659056380</updated>
     </task>
-<<<<<<< Updated upstream
-    <option name="localTasksCounter" value="20" />
-    <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73030000" />
-=======
     <task id="LOCAL-00020" summary="added lesson 9">
       <created>1542738077472</created>
       <option name="number" value="00020" />
@@ -404,29 +383,16 @@
       <option name="project" value="LOCAL" />
       <updated>1542738077472</updated>
     </task>
-    <task id="LOCAL-00021" summary="Font homework completed">
-      <created>1542740637519</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1542740637519</updated>
-    </task>
-    <option name="localTasksCounter" value="22" />
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77913000" />
->>>>>>> Stashed changes
+    <option name="totallyTimeSpent" value="77760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1231" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
-<<<<<<< Updated upstream
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23044576" />
-=======
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23380992" />
->>>>>>> Stashed changes
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23380992" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -473,13 +439,8 @@
     <MESSAGE value="homework fixed.&#10;Started new lesson" />
     <MESSAGE value="Start BLOW project" />
     <MESSAGE value="BLOW project completed" />
-<<<<<<< Updated upstream
-    <option name="LAST_COMMIT_MESSAGE" value="BLOW project completed" />
-=======
     <MESSAGE value="added lesson 9" />
-    <MESSAGE value="Font homework completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Font homework completed" />
->>>>>>> Stashed changes
+    <option name="LAST_COMMIT_MESSAGE" value="added lesson 9" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Lesson_3/index.html">
@@ -537,13 +498,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_7/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="35" column="1" lean-forward="true" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_8/BLOW/images/bg.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -554,24 +508,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home_Work_CSS/index.html">
+    <entry file="file://$PROJECT_DIR$/Lesson_8/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-141">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="420">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home_Work_CSS/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Lesson_8/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="34" selection-end-column="36" />
+        <state relative-caret-position="1335">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_7/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="1" lean-forward="true" selection-end-line="35" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_8/BLOW/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="100" column="1" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+        <state relative-caret-position="548">
+          <caret line="100" column="1" lean-forward="true" selection-start-line="98" selection-start-column="3" selection-end-line="100" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -582,30 +543,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_8/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Lesson_9_Fonts/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        <state relative-caret-position="428">
+          <caret line="59" column="20" lean-forward="true" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-<<<<<<< Updated upstream
-    <entry file="file://$PROJECT_DIR$/Lesson_8/index.html">
+    <entry file="file://$PROJECT_DIR$/Lesson_9_Fonts/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-=======
-    <entry file="file://$PROJECT_DIR$/Lesson_9_Fonts/fonts/OpenSansBold.svg">
-      <provider selected="true" editor-type-id="images" />
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="92" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home_Work_CSS/fonts/BarlowRegular.svg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/Home_Work_CSS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Home_Work_CSS/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
+        <state relative-caret-position="454">
           <caret line="103" column="21" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
->>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
