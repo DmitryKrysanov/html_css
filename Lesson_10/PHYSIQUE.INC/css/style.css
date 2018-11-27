@@ -1,0 +1,230 @@
+@font-face {
+    font-family: 'MetropolisMedium';
+    src: url('../fonts/MetropolisMedium.eot');
+    src: url('../fonts/MetropolisMedium.eot') format('embedded-opentype'),
+    url('../fonts/MetropolisMedium.woff2') format('woff2'),
+    url('../fonts/MetropolisMedium.woff') format('woff'),
+    url('../fonts/MetropolisMedium.ttf') format('truetype'),
+    url('../fonts/MetropolisMedium.svg#MetropolisMedium') format('svg');
+}
+
+@font-face {
+    font-family: 'BebasNeueRegular';
+    src: url('../fonts/BebasNeueRegular.eot');
+    src: url('../fonts/BebasNeueRegular.eot') format('embedded-opentype'),
+    url('../fonts/BebasNeueRegular.woff2') format('woff2'),
+    url('../fonts/BebasNeueRegular.woff') format('woff'),
+    url('../fonts/BebasNeueRegular.ttf') format('truetype'),
+    url('../fonts/BebasNeueRegular.svg#BebasNeueRegular') format('svg');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-size: inherit;
+    color: inherit;
+    -webkit-font-smoothing: antialiased;
+}
+
+button::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+}
+
+img {
+    border: none;
+}
+
+body {
+    height: 100%;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.65);
+    padding-top: 25px;
+    padding-bottom: 12px;
+}
+
+.wrapper {
+    max-width: 1170px;
+    margin: auto;
+}
+
+.wrapper.border-top {
+    border-bottom: solid 2px #464646;
+    padding-bottom: 16px;
+}
+
+.wrapper:after {
+    clear: both;
+    display: block;
+    content: "";
+}
+
+header.logo {
+ float: left;
+}
+
+/*form*/
+
+header form {
+    float: right;
+    margin-top: 8px;
+    max-width: 208px;
+    width: 100%;
+    background-color: #ebebeb;
+    border-radius: 3px;
+}
+
+header form:after {
+    clear: both;
+    display: block;
+    content: "";
+}
+
+header form input {
+    line-height: 42px;
+    border: none;
+    background-color: transparent;
+    color: #959595;
+    font-size: 15px;
+    padding-left: 17px;
+    box-sizing: border-box;
+    width: 70%;
+    float: left;
+}
+
+header form input::placeholder {
+    font-family: MetropolisMedium;
+    font-size: 15px;
+    color: #959595;
+    text-transform: uppercase;
+}
+
+header form button {
+    background-color: transparent;
+    border: none;
+    float: right;
+    line-height: 42px;
+    width: 20%;
+}
+
+header form button i {
+    color: #f91b1c;
+    font-size: 17px;
+}
+
+/*form end*/
+
+/*buttons*/
+
+.button {
+    display: inline-block;
+    padding: 12px 15px;
+    margin-top: 8px;
+    margin-left: 25px;
+    border-radius: 3px;
+    font-family: MetropolisMedium;
+    color: white;
+    line-height: 17px;
+    min-width: 170px;
+    font-size: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    text-align: center;
+    float: right;
+
+}
+.sign-up {
+    background-color: red;
+}
+
+.sign-up i {
+    margin-right: 10px;
+    font-size: 17px;
+}
+
+.login {
+    background-color: #464646;
+}
+
+.login i {
+    margin-right: 10px;
+    font-size: 17px;
+}
+
+.online-store {
+    background-color: #252525;
+}
+
+.online-store i {
+    margin-right: 10px;
+    font-size: 17px;
+}
+
+/*buttons end*/
+
+/*menu*/
+
+.menu {
+    padding-top: 21px;
+    padding-bottom: 12px;
+    float: left;
+}
+
+.menu ul li {
+    display: inline-block;
+    margin-right: 18px;
+}
+
+.menu ul li:last-child {
+    margin-right: 0;
+}
+
+.menu a {
+    font-family: BebasNeueRegular;
+    font-size: 25px;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 0 5px 5px;
+    border-bottom: transparent;
+}
+
+.menu a:hover {
+    border-bottom: #fa090a 4px solid;
+}
+
+/*menu end*/
+
+/*social buttons*/
+
+.social-buttons {
+float: right;
+    padding-top: 17px;
+}
+
+.social-buttons a {
+     margin-left: 16px;
+    /*line-height: 30px;*/
+ }
+
+.social-buttons a:first-child {
+    margin-left: 0;
+}
+
+.social-buttons i {
+font-size: 30px;
+    color: #fa090a;
+}
+
+.social-buttons i:hover {
+    color: #fff;
+}
+
+/*social buttons end*/
