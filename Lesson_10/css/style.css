@@ -1,0 +1,40 @@
+.sign-up {
+    display: inline-block;
+    line-height: 50px;
+    padding: 20px 15px;
+    color: white;
+    line-height: 17px;
+    background-color: red;
+    min-width: 170px;
+    font-size: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.sign-up i {
+    margin-right: 10px;
+    font-size: 17px;
+}
+
+.login {
+    display: inline-block;
+    line-height: 50px;
+    padding: 20px 15px;
+    color: white;
+    line-height: 17px;
+    background-color: #464646;
+    min-width: 170px;
+    font-size: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    text-align: center;
+    margin-right: 25px;
+}
+
+.login i {
+    margin-right: 14px;
+    font-size: 17px;
+}
