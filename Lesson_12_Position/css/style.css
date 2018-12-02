@@ -1,0 +1,102 @@
+/*.for-images {*/
+    /*position: relative;*/
+/*}*/
+
+/*.for-images img {*/
+    /*width: 100%;*/
+/*}*/
+
+/*.for-images .red-shadow {*/
+    /*position: absolute;*/
+    /*background-color: rgba(255, 0, 0, 0.3);*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+/*}*/
+
+/*.red-shadow h1 {*/
+    /*color: white;*/
+    /*font-size: 100px;*/
+    /*text-align: center;*/
+    /*line-height: 100%;*/
+/*}*/
+
+.wrapper {
+    max-width: 1170px;
+    margin: auto;
+    position: relative;
+}
+
+.clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.tag {
+    margin: 100px 0;
+}
+
+.tag .block-tag {
+    float: left;
+    width: 22%;
+    margin-right: 3.3%;
+    height: 200px;
+    border: solid 1px black;
+    overflow: hidden;
+    position: relative;
+}
+
+.tag .block-tag:last-of-type {
+    margin-right: 0;
+}
+
+.tag .block-tag img {
+    height: 100%;
+}
+
+.tag .block-tag:after {
+    position: absolute;
+    background-color: rgba(159, 146, 127, 0.5);
+    width: 100%;
+    height: 100%;
+    content: "Read More >>";
+    text-align: center;
+    padding-top: 100px;
+    font-size: 10px;
+    color: white;
+    display: block;
+    top: 0;
+}
+
+
+.tag .block-tag .position {
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    padding: 15px 10px;
+    box-sizing: border-box;
+    opacity: 0;
+    transition: 0.3s;
+}
+
+.tag .block-tag .position h3 {
+    font-size: 18px;
+    color: orange;
+}
+
+.tag .block-tag .position p {
+    font-size: 12px;
+    color: brown;
+}
+
+.tag .block-tag:hover .position {
+    opacity: 1;
+}
+
+.map {
+    position: relative;
+    border: solid 5px blue;
+    height: 300px;
+}

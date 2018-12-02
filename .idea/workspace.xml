@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f94b37a-1fb6-4255-892d-b1bda4a2d01a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson_11_Position/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_11_Position/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework_Pizza/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework_Pizza/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_12_Position/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_12_Position/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_12_Position/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,30 +35,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="19" />
-          <entry key="html" value="50" />
-          <entry key="jpg" value="3" />
+          <entry key="css" value="22" />
+          <entry key="html" value="57" />
+          <entry key="jpg" value="5" />
           <entry key="png" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="19" />
-          <entry key="HTML" value="50" />
-          <entry key="Image" value="6" />
+          <entry key="CSS" value="22" />
+          <entry key="HTML" value="57" />
+          <entry key="Image" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="3415" />
-          <entry key="html" value="8216" />
+          <entry key="css" value="4816" />
+          <entry key="html" value="8964" />
           <entry key="txt" value="434" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="3415" />
-          <entry key="HTML" value="8216" />
+          <entry key="CSS" value="4816" />
+          <entry key="HTML" value="8964" />
           <entry key="PLAIN_TEXT" value="434" />
         </counts>
       </usages-collector>
@@ -70,17 +73,21 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lesson_11_Position/index.html">
+        <entry file="file://$PROJECT_DIR$/Homework_Pizza/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+            <state relative-caret-position="-54">
+              <caret line="111" column="21" selection-start-line="111" selection-start-column="21" selection-end-line="111" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson_11_Position/css/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Homework_Pizza/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -142,6 +149,11 @@
         <option value="$PROJECT_DIR$/Lesson_10/PHYSIQUE.INC/css/style.css" />
         <option value="$PROJECT_DIR$/Lesson_11_Position/css/style.css" />
         <option value="$PROJECT_DIR$/Lesson_11_Position/index.html" />
+        <option value="$PROJECT_DIR$/Lesson_12_Position_Git/css/style.css" />
+        <option value="$PROJECT_DIR$/Lesson_12_Position/css/style.css" />
+        <option value="$PROJECT_DIR$/Lesson_12_Position/index.html" />
+        <option value="$PROJECT_DIR$/Homework_Pizza/index.html" />
+        <option value="$PROJECT_DIR$/Homework_Pizza/css/style.css" />
       </list>
     </option>
   </component>
@@ -175,13 +187,18 @@
             <path>
               <item name="html_css_repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="html_css_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_11_Position" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework_Pizza" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html_css_repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html_css_repo" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework_Pizza" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="html_css_repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="html_css_repo" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson_11_Position" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,15 +215,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Lesson_9" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lesson_12_Position_Git/images" />
       <recent name="$PROJECT_DIR$/Lesson_10/PHYSIQUE.INC/icomoon" />
       <recent name="$PROJECT_DIR$/Lesson_10/PHYSIQUE.INC" />
       <recent name="$PROJECT_DIR$/Lesson_10/PHYSIQUE.INC/fonts" />
       <recent name="$PROJECT_DIR$/Home_Work_CSS/fonts" />
-      <recent name="$PROJECT_DIR$/Home_Work_CSS" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lesson_9" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -403,12 +420,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98026000" />
+    <option name="totallyTimeSpent" value="111949000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1231" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="700" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28259042" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27544427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -422,7 +440,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.329927" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4995795" weight="0.329927" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5004205" side_tool="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5004205" side_tool="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.329927" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -487,13 +505,6 @@
     <entry file="file://$PROJECT_DIR$/Lesson_5_rocket/images/rocket.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_5_rocket/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="33" column="74" lean-forward="true" selection-start-line="33" selection-start-column="74" selection-end-line="33" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_6/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
@@ -517,13 +528,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_8/BLOW/images/bg.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_7/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="36" column="72" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_8/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -564,20 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="454">
           <caret line="103" column="21" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_8/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="89" selection-start-line="89" selection-end-line="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_7/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="1" lean-forward="true" selection-end-line="35" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -626,10 +616,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_12_Position/images/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_12_Position/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="100" column="18" selection-start-line="100" selection-start-column="18" selection-end-line="100" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_7/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="1" lean-forward="true" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_12_Position/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_5_rocket/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_7/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="36" column="72" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_8/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson_11_Position/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
+        <state relative-caret-position="748">
           <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework_Pizza/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework_Pizza/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="111" column="21" selection-start-line="111" selection-start-column="21" selection-end-line="111" selection-end-column="21" />
         </state>
       </provider>
     </entry>
