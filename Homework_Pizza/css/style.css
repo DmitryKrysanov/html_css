@@ -129,6 +129,7 @@ footer {
     position: fixed;
     top: 262px;
     right: 0;
+    z-index: 2;
 }
 
 .social-buttons a {
