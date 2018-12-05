@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f94b37a-1fb6-4255-892d-b1bda4a2d01a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson_11_Position/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_11_Position/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1f94b37a-1fb6-4255-892d-b1bda4a2d01a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,22 +64,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lesson_11_Position/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson_11_Position/css/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -102,7 +83,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="lesson_13" />
       </map>
     </option>
   </component>
@@ -164,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,21 +152,11 @@
               <item name="html_css_repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="html_css_repo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="html_css_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html_css_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_11_Position" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html_css_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html_css_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_11_Position" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,15 +168,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Lesson_9" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Lesson_10/PHYSIQUE.INC/icomoon" />
       <recent name="$PROJECT_DIR$/Lesson_10/PHYSIQUE.INC" />
       <recent name="$PROJECT_DIR$/Lesson_10/PHYSIQUE.INC/fonts" />
       <recent name="$PROJECT_DIR$/Home_Work_CSS/fonts" />
       <recent name="$PROJECT_DIR$/Home_Work_CSS" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lesson_9" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -403,12 +373,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98026000" />
+    <option name="totallyTimeSpent" value="98038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1231" height="777" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28259042" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2842725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
