@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: inherit;
+    color: inherit;
+    -webkit-font-smoothing: antialiased;
+}
+
+button::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+}
+
+img {
+    border: none;
+}
+
+body {
+    height: 100%;
+    background-image: url("../images/bg_image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    background-color: #af2024;
+    height: 38px;
+}
+
+.wrapper {
+    max-width: 960px;
+    margin: auto;
+    padding-top: 21px;
+}
+
+.wrapper .logo {
+    margin-bottom: 20px;
+}
+
+section {
+    max-width: 710px;
+    margin: auto;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+section .section-header {
+    background-color: #af2024;
+    padding: 27px 19px;
+}
+
+section .section-header h1 {
+    font-family: 'Arvo', serif;
+    color: #fff;
+    font-size: 20px;
+    line-height: 22px;
+}
+
+section .section-body {
+    padding: 63px 75px 125px 75px;
+
+}
+
+/*video preview*/
+
+section .section-body .video {
+    background-color: #e7e7e7;
+    height: 346px;
+    position: relative;
+    margin-bottom: 27px;
+}
+
+section .section-body .video .play {
+    width: 0;
+    height: 0;
+    border-top: 26px solid transparent;
+    border-left: 46px solid #af2024;
+    border-bottom: 26px solid transparent;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -18px;
+    margin-left: -23px;
+}
+
+/*video preview end*/
+
+section .section-body h3 {
+    font-family: 'Arvo', serif;
+    font-size: 13px;
+    color: #af2024;
+}
+
+section .section-body h3:after {
+    content: ". . . . . . . . .";
+    display: block;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-bottom: 11px;
+}
+
+section .section-body span {
+    color: #7d7d7d;
+}
+
+section .section-body p {
+    font-family: 'Arvo', serif;
+    font-size: 12px;
+    line-height: 18px;
+    color: #98161b;
+}
+
+footer {
+    background-color: #000;
+    border-top: solid 33px #3f0002;
+    height: 480px;
+    position: relative;
+    margin-top: -100px;
+    z-index: 0;
+}
+
+.social-buttons {
+    position: fixed;
+    top: 262px;
+    right: 0;
+    z-index: 2;
+}
+
+.social-buttons a {
+    width: 50px;
+    height: 50px;
+    background-color: #850409;
+    display: block;
+}
+
+.social-buttons a i {
+    font-size: 33px;
+    color: #fff;
+    line-height: 50px;
+    width: 100%;
+    text-align: center;
+}
