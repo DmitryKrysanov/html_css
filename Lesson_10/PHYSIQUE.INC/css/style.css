@@ -44,15 +44,39 @@ body {
     height: 100%;
 }
 
+.clearfix {
+    display: block;
+    clear: both;
+}
+
 header {
-    background-color: rgba(0, 0, 0, 0.65);
-    padding-top: 25px;
     padding-bottom: 12px;
+    width: 100%;
+    background-image: url("../images/header_bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .wrapper {
     max-width: 1170px;
     margin: auto;
+    padding: 25px 15px 0;
+}
+
+.wrapper:nth-child(2) {
+     padding-top: 0;
+     padding-bottom: 12px;
+ }
+
+.wrapper:last-child {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+header .overlay {
+    background-color: rgba(0, 0, 0, 0.65);
+    width: 100%;
 }
 
 .wrapper.border-top {
@@ -139,33 +163,23 @@ header form button i {
     box-sizing: border-box;
     text-align: center;
     float: right;
-
 }
+
+header .overlay .wrapper .button i {
+    font-size: 17px;
+    margin-right: 10px;
+}
+
 .sign-up {
     background-color: red;
-}
-
-.sign-up i {
-    margin-right: 10px;
-    font-size: 17px;
 }
 
 .login {
     background-color: #464646;
 }
 
-.login i {
-    margin-right: 10px;
-    font-size: 17px;
-}
-
 .online-store {
     background-color: #252525;
-}
-
-.online-store i {
-    margin-right: 10px;
-    font-size: 17px;
 }
 
 /*buttons end*/
@@ -205,21 +219,20 @@ header form button i {
 /*social buttons*/
 
 .social-buttons {
-float: right;
+    float: right;
     padding-top: 17px;
 }
 
 .social-buttons a {
-     margin-left: 16px;
-    /*line-height: 30px;*/
- }
-
-.social-buttons a:first-child {
-    margin-left: 0;
+    margin-left: 16px;
+    width: 30px;
+    height: 30px;
+    display: block;
+    float: right;
 }
 
 .social-buttons i {
-font-size: 30px;
+    font-size: 30px;
     color: #fa090a;
 }
 
@@ -228,3 +241,15 @@ font-size: 30px;
 }
 
 /*social buttons end*/
+
+header h1 {
+    width: 100%;
+    margin-top: 66px;
+    text-align: center;
+    border-bottom: solid 3px #e60706;
+    padding-bottom: 34px;
+    font-family: BebasNeueRegular;
+    font-size: 50px;
+    color: #fff;
+    text-transform: uppercase;
+}
